@@ -441,12 +441,11 @@ footer{
 */
 
 .about-pic{
-
+	text-align: center;
 }
 .about-pic img{
     width: 400px;
     height: 400px;
-    border-radius: 100%;
     transition: 1s;
 }
 
@@ -473,6 +472,14 @@ footer{
     }
     .about-pic img:hover{
         transform: none;
+    }
+	.about-pic{
+        text-align: center; 
+    }
+    .about-pic img{
+        width: 280px;
+        height: 280px;
+        transition: 1s;
     }
 }
 
