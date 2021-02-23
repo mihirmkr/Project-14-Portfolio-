@@ -441,9 +441,7 @@ footer{
 */
 
 .about-pic{
-    display: flex;
-    align-items: center;
-    justify-content: center;
+
 }
 .about-pic img{
     width: 400px;
