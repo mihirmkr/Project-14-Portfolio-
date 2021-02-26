@@ -438,6 +438,7 @@ footer{
     color: white;
     font-weight: bold;
     transition: 1s;
+	text-align: center;
 }
 .txt-sec{
     transition: 1s;
